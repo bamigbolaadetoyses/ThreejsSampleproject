@@ -1,2 +1,0 @@
-# ThreejsSampleproject
-Created with CodeSandbox
